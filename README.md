@@ -71,12 +71,6 @@ Making Sentiment Prediction
 
 Displaying Result (Positive / Negative) in Terminal
 
-Customer Feedback Classification
-
-Automated Social Media Sentiment Tracking
-
-Real-Time Tweet Monitoring Tools
-
 📃 Files Included in the Project Folder
 Dataset file (CSV or preprocessed)
 
